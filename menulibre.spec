@@ -3,7 +3,7 @@ Name:		menulibre
 Version:	2.0.6
 Release:	1
 License:	GPLv3
-Group:		Desktop/Other
+Group:		Desktop/Others
 URL:		http://smdavis.us/projects/menulibre/
 Source0:	https://launchpad.net/menulibre/2.0/%{version}/+download/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(python)
